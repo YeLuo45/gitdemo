@@ -10,10 +10,17 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello World! edit by idea" );
+        System.out.println( "Hello World! edit by github" );
     }
 
     public static void methodB()
     {
         System.out.println( "method by idea" );
+
+    }
+
+    public static void methodA()
+    {
+        System.out.println( "method by github" );
     }
 }
