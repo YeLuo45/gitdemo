@@ -23,4 +23,10 @@ public class App
     {
         System.out.println( "method by github" );
     }
+
+
+    public static void methodC()
+    {
+        System.out.println( "method by github" );
+    }
 }
