@@ -29,4 +29,10 @@ public class App
     {
         System.out.println( "method by github" );
     }
+
+
+    public static void methodD()
+    {
+        System.out.println( "method to test merge" );
+    }
 }
