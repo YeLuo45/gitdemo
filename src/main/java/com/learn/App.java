@@ -22,5 +22,6 @@ public class App
     public static void methodA()
     {
         System.out.println( "method by github" );
+        System.out.println("新增修改 by idea");
     }
 }
